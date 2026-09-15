@@ -2,11 +2,11 @@
 
 # Luxofnaples
 
-### Custom work, sterile rooms, healed photos.
+### Step into your style.
 
-**Design consults, clear pricing, and artists who show healed work—not only fresh ink.**
+**Two moods, one step ahead: quiet luxury for polished days and a darker Street District for sneaker culture — men, women and kids.**
 
-[Explore](#our-offerings) ·
+[Explore](#our-catalog) ·
 [About](#about-luxofnaples) ·
 [Support](#customer-support) ·
 [Contact](#contact-us)
@@ -17,98 +17,26 @@
 
 ## About Luxofnaples
 
-**Luxofnaples** is a **Tattoo Studio** in **Boston** — Design consults, clear pricing, and artists who show healed work—not only fresh ink.
+**Luxofnaples** is a **Footwear / Shoe Store** in **Miami** — Two moods, one step ahead: quiet luxury for polished days and a darker Street District for sneaker culture — men, women and kids.
 
 We publish hours, offerings and contact paths clearly so customers know what to expect before they visit or book.
 
 ---
 
-## Why we exist
+## Our promise
 
-Luxofnaples exists to make tattoo studio feel personal in Boston — clear pricing, honest recommendations, and a team that remembers why you came back.
+At Luxofnaples, great footwear / shoe store shouldn't require guesswork. We publish hours, prices, and policies so your visit starts with confidence.
 
-- Rooted in Boston with regulars who know our name
-- Offerings that match what we publish online
-- Support you can reach during real hours
-- A space built for repeat visits, not one-offs
-
----
-
-## Where we're headed
-
-We're growing Luxofnaples into a creative people recommend without hesitation — more depth in our craft, same straightforward experience at the door.
+- Transparent menus and service lists
+- Staff who explain options without pressure
+- Quality that holds up visit after visit
+- Follow-through when something needs fixing
 
 ---
 
-# Our Offerings
+## The long view
 
-## Core Collection
-
-- **Tattoo Studio Essentials** — Core offering for everyday guests · `$28`
-- **Signature Experience** — Our most requested package · `$45`
-- **Premium Session** — Extended time / upgraded finish · `$75`
-
----
-
-## Signature Selection
-
-- **Starter Visit** — Perfect first introduction · `$35`
-- **Membership / Retainer** — Ongoing relationship pricing · `$99/mo`
-- **Add-on Upgrade** — Enhance any booking · `+$15`
-
----
-
-## More Options
-
-- **Group / Team Option** — Built for more than one · `Custom`
-- **Gift Certificate** — Share the experience · `$50`
-
----
-
-## What We Offer
-
-- Creative consultations
-- Appointments & walk-ins when capacity allows
-- Clear pricing before you commit
-- Follow-up support after your visit
-- Gift options available
-
----
-
-
-# Featured Categories
-
-| Category | Description |
-|----------|-------------|
-| **New Arrivals** | Latest additions to our tattoo studio catalog |
-| **Best Sellers** | Customer favorites and most-requested options |
-| **Signature Experience** | Our most requested package |
-| **Tattoo Studio Essentials** | Core offering for everyday guests |
-| **Essentials** | Everyday foundations of the brand |
-| **Premium** | Elevated selections for special occasions |
-| **Support** | Guidance, sizing help and aftercare |
-| **Visit / Book** | Hours, appointments and walk-in options |
-
-
----
-
-# Brand Style
-
-### Refined Essentials
-
-Timeless basics that mix with almost anything.
-
-### Premium Moments
-
-Elevated selections when the occasion asks for more.
-
-### Seasonal Rotation
-
-Fresh highlights without resetting the whole catalog.
-
-### Workday Ready
-
-Practical choices that still look intentional.
+Become the footwear / shoe store benchmark in Miami — known for craft, accessibility, and a brand identity that feels unmistakably Luxofnaples.
 
 ---
 
@@ -124,48 +52,70 @@ Consistency matters more than one flashy launch.
 
 ### Local roots
 
-Based in Boston with a team you can meet in person.
+Based in Miami with a team you can meet in person.
 
 ### Craft first
 
 We invest in the work behind the counter, not filler marketing.
----
-
-# What the website includes
-
-- Responsive layout tuned for mobile
-- Clear **Offerings** with prices
-- Visit page with map and hours
-- Contact form — stay on site, no redirects
-- Policies and support desk email
 
 ---
 
-# Brand Identity
+# Our Catalog
 
-**Industry:** Tattoo Studio (Creative)  
-**Location:** Boston, MA  
-**Audience:** Customers looking for reliable, accessible tattoo studio.
+## Featured Essentials
+
+- **Nike Air Force 1 '07** — Men · Street icon · `$115`
+- **adidas Samba OG** — Men · Terrace classic · `$100`
+- **Clarks Tilden Oxford** — Men · Elegant office · `$120`
+- **Cole Haan Penny Loafer** — Men · Refined leather · `$119.97`
+
+---
+
+## Signature Collection
+
+- **Nike Air Max 270** — Women · Air lifestyle · `$170`
+- **adidas Gazelle Bold** — Women · Platform street · `$60–$120`
+- **Sam Edelman Hazel Pump** — Women · Evening edit · `$150`
+- **Dr. Martens 1460 Boot** — Women · Iconic leather · `$180`
 
 ---
 
-# Repository
+## Premium & Add-ons
 
-Public profile + website assets for **Luxofnaples**.
-
-```text
-luxofnaples/
-├── README.md
-└── luxofnaples.github.io/
-```
+- **Nike AF1 LE Kids** — Kids · Mini icon · `$90`
+- **adidas Samba Kids** — Kids · Originals · `$80`
+- **New Balance 574 Kids** — Kids · Heritage · `$79.99`
+- **Crocs Classic Kids** — Kids · Easy comfort · `$39.99`
 
 ---
+
+## What We Offer
+
+- Street District — sneakers & urban culture
+- Elegant Edit — formal shoes, loafers, pumps, boots
+- Separate Men / Women / Kids departments
+- Real product references with verified retail prices
+- Sizing guidance & customer support line
+
+---
+
+
+---
+
+# Hours & Visit
+
+| | |
+|---|---|
+| **Hours** | Mon–Sat 10:00–20:00 · Sun 12:00–18:00 |
+| **City** | Miami, FL |
+| **Address** | 1200 Brickell Avenue |
+| **Website** | https://luxofnaples.github.io |
 
 # Customer Support
 
-**Hours:** Wed–Sat 12:00–20:00 · by appointment  
-**Location:** Boston, MA  
-**Phone:** +1 (617) 555-0144  
+**Hours:** Mon–Sat 10:00–20:00 · Sun 12:00–18:00  
+**Location:** Miami, FL  
+**Phone:** +1 (305) 555-0148  
 **Email:** `support@luxofnaples.com`
 
 ---
@@ -182,7 +132,7 @@ luxofnaples/
 
 ### Luxofnaples
 
-Custom work, sterile rooms, healed photos.
+Step into your style.
 
 **Web:** [https://luxofnaples.github.io](https://luxofnaples.github.io)
 
